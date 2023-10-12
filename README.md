@@ -15,11 +15,20 @@
 <h3>Web Dev</h3>
  <p>
 <a href="https://www.w3schools.com/html/"><img height ="70" alt ="html" src ="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
-  <a href="https://www.w3schools.com/css/"><img height = "70" alt="css" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
+  <a href="https://www.w3schools.com/css/"><img height = "70" alt="css" src = "https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png"></a>
   <a href="https://getbootstrap.com/"><img height="70" alt="bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></a>
  <a href="https://tailwindcss.com/"><img height="70" alt = "tailwind-css" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
 <a href="https://wordpress.com/"><img height = "70" alt="wordpress"src = "https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"></a>
-<a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
+</p>
+</div>
+<div>
+<h3>UI/UX</h3>
+ <p>
+<a href="https://www.figma.com/"><img height ="70" alt ="figma" src ="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></a>
+  <a href="https://m3.material.io/"><img height = "70" alt="material-design" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
+  <a href="https://mui.com/"><img height="70" alt="material-ui" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"></a>
+ <a href="https://tailwindcss.com/"><img height="70" alt = "tailwind-css" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
+<a href="https://wordpress.com/"><img height = "70" alt="wordpress"src = "https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"></a>
 </p>
 </div>
 
