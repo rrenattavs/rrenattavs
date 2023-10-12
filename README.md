@@ -12,12 +12,12 @@
 <div>
 <h1>Technologies that I know </h1>
 
- <code>
+ <p>
 <a href="https://www.w3schools.com/html/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
- </code>
- <code>
+
+ 
 <a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
- </code>
+
 <!--BootStrap-->
 <a href="https://getbootstrap.com/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></a>
 
@@ -26,7 +26,7 @@
 <a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
 
 <a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
-
+</p>
 </div>
 
 
