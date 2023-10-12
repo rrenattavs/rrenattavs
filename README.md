@@ -25,25 +25,18 @@
 		</tr>
 	</table>
 </div>
-<div>
-	<div align="left">
+<div align="left">
+	<h3>UI/UX</h3>
 	<table>
 		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></code></td>
+			<a href="https://www.figma.com/"><td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></a></code></td>
+			<td><code><a href="https://m3.material.io/"><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></a></code></td>
+			<td><code><a href="https://mui.com/"><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></a></td>
+			<td><code><a href="https://www.canva.com/"><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></a></code></td>
 		</tr>
 	</table>
 </div>
-<h3>UI/UX</h3>
- <p>
-<a href="https://www.figma.com/"><img height ="50" alt ="figma" src ="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></a>
-  <a href="https://m3.material.io/"><img height = "50" alt="material-design" src = "https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png"></a>
-  <a href="https://mui.com/"><img height="50" alt="material-ui" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"></a>
- <a href="https://www.canva.com/"><img height="50" alt = "canva" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed"></a>
-</p>
-</div>
+
 <h3>JavaScript</h3>
  <p>
 <a href="https://www.w3schools.com/js/"><img height ="50" alt ="javascript" src ="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></a>
