@@ -47,9 +47,6 @@
 			<td><code><a href="https://www.canva.com/"><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></a></code></td>
 		</tr>
 	</table>
-</div>
-<div align="center">
-	<h3>JavaScript</h3>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
@@ -62,6 +59,7 @@
 		</tr>
 	</table>
 </div>
+
 <div align="center">
 	<h3>Communication</h3>
 	<table>
