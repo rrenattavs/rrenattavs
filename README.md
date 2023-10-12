@@ -13,7 +13,7 @@
 <h1>Technologies that I know </h1>
 <div>
 
-<div align="left">
+<div align="center">
 	<h3>Web Dev</h3>
 	<table>
 		<tr>
@@ -25,7 +25,7 @@
 		</tr>
 	</table>
 </div>
-<div align="left">
+<div align="center">
 	<h3>UI/UX</h3>
 	<table>
 		<tr>
