@@ -1,7 +1,7 @@
 <h1>Let introducte myself</h1>
-- 👋 Hi, I’m Renata
-- 🚀 I am a passionate programmer and problem-solving enthusiast, always eager to embrace new challenges with innovative solutions.
-- 👀 With over a decade of experience, I am a full-stack developer with experience in many IT solutions
+- 👋 Hi, I’m Renata</br>
+- 🚀 I am a passionate programmer and problem-solving enthusiast, always eager to embrace new challenges with innovative solutions.</br>
+- 👀 With over a decade of experience, I am a full-stack developer with experience in many IT solutions</br>
 - 👨‍💻 I have a strong affinity for learning new technologies and venturing into unexplored domains.
 - 🌱 I’m currently learning Advanced concepts in Java and Python
 - 👁‍🗨 What sets me apart → My ability to rapidly acquire and master new skills and apply them to solve real-world problems.
