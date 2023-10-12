@@ -13,12 +13,11 @@
 <h1>Technologies that I know </h1>
 <h3>Web Dev</h3>
  <p>
-<a href="https://www.w3schools.com/html/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a><a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
-  <a href="https://getbootstrap.com/"><img height = "70" alt="bootstrap" src = "https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></a>
- <a href="https://www.w3schools.com/css/"><img height = "70" alt = "tailwind-css" src = "https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
-
+<a href="https://www.w3schools.com/html/"><img height ="70" alt ="html" src ="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
+  <a href="https://www.w3schools.com/css/"><img height = "70" alt="css" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
+  <a href="https://getbootstrap.com/"><img height="70" alt="bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></a>
+ <a href="[https://www.w3schools.com/css/](https://tailwindcss.com/)"><img height="70" alt = "tailwind-css" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
 <a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
-
 <a href="https://www.w3schools.com/css/"><img height = "70" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></a>
 </p>
 </div>
