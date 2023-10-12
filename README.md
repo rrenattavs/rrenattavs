@@ -39,7 +39,15 @@
 <a href="https://wordpress.com/"><img height = "50" alt="yarn"src = "https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"></a>
   <a href="https://getbootstrap.com/"><img height="50" alt="nodejs" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></a>
  <a href="https://tailwindcss.com/"><img height="50" alt = "expressjs" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"></a>
-<a href="https://wordpress.com/"><img height = "50" alt="nextjs"src = "https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"></a>
+
+</p>
+<p>in progress ...</p>
+<p>
+ <a href="https://wordpress.com/"><img height = "50" alt="nextjs"src = "https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"></a>
+ <a href="https://www.w3schools.com/html/"><img height ="50" alt ="nestjs" src ="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574"></a>
+  <a href="https://www.w3schools.com/css/"><img height = "50" alt="redux" src = "https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"></a>
+  <a href="https://getbootstrap.com/"><img height="50" alt="nuxtjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc"></a>
+ <a href="https://getbootstrap.com/"><img height="50" alt="bunjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f"></a>
 </p>
 </div>
 
