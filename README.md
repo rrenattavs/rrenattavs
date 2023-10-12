@@ -50,6 +50,22 @@
  <a href="https://getbootstrap.com/"><img height="50" alt="bunjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f"></a>
 </p>
 </div>
+<div>
+<h3>Java</h3>
+ <p>
+<a href="https://www.figma.com/"><img height ="50" alt ="java" src ="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
+ </p>
+ <p>in progress ...</p>
+ <p>
+  <a href="https://m3.material.io/"><img height = "50" alt="spring" src = "https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></a>
+  <a href="https://mui.com/"><img height="50" alt="spring-boot" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></a>
+ <a href="https://www.canva.com/"><img height="50" alt = "maven" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"></a>
+  <a href="https://mui.com/"><img height="50" alt="hibernate" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"></a>
+ <a href="https://www.canva.com/"><img height="50" alt = "groovy" src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png"></a>
+  <a href="https://mui.com/"><img height="50" alt="tomcat" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png"></a>
+ <a href="https://www.canva.com/"><img height="50" alt = "scala" src="https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png"></a>
+</p>
+</div>
 
 
 <!---
