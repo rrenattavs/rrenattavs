@@ -25,10 +25,9 @@
 <h3>UI/UX</h3>
  <p>
 <a href="https://www.figma.com/"><img height ="70" alt ="figma" src ="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></a>
-  <a href="https://m3.material.io/"><img height = "70" alt="material-design" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
+  <a href="https://m3.material.io/"><img height = "70" alt="material-design" src = "https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png"></a>
   <a href="https://mui.com/"><img height="70" alt="material-ui" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"></a>
- <a href="https://tailwindcss.com/"><img height="70" alt = "tailwind-css" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
-<a href="https://wordpress.com/"><img height = "70" alt="wordpress"src = "https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"></a>
+ <a href="https://www.canva.com/"><img height="70" alt = "canva" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed"></a>
 </p>
 </div>
 
