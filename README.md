@@ -1,4 +1,4 @@
-<h1>Let introducte myself</h1>
+<h1>Let introduce myself</h1>
 - 👋 Hi, I’m Renata</br>
 - 🚀 I am a passionate programmer and problem-solving enthusiast, always eager to embrace new challenges with innovative solutions.</br>
 - 👀 With over a decade of experience, I am a Full Stack Developer with experience in many IT solutions</br>
