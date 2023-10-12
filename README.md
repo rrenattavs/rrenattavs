@@ -36,17 +36,6 @@
 			<td><code><a href="https://wordpress.com/"><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></a></code></td>
 		</tr>
 	</table>
-</div>
-<div align="center">
-	<h3>UI/UX</h3>
-	<table>
-		<tr>
-			<a href="https://www.figma.com/"><td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></a></code></td>
-			<td><code><a href="https://m3.material.io/"><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></a></code></td>
-			<td><code><a href="https://mui.com/"><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></a></td>
-			<td><code><a href="https://www.canva.com/"><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></a></code></td>
-		</tr>
-	</table>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
@@ -58,6 +47,18 @@
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code></td>
 		</tr>
 	</table>
+</div>
+<div align="center">
+	<h3>UI/UX</h3>
+	<table>
+		<tr>
+			<a href="https://www.figma.com/"><td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></a></code></td>
+			<td><code><a href="https://m3.material.io/"><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></a></code></td>
+			<td><code><a href="https://mui.com/"><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></a></td>
+			<td><code><a href="https://www.canva.com/"><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></a></code></td>
+		</tr>
+	</table>
+	
 </div>
 
 <div align="center">
