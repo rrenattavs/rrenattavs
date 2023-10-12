@@ -60,7 +60,7 @@
   <a href="https://getbootstrap.com/"><img height="50" alt="nuxtjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc"></a>
  <a href="https://getbootstrap.com/"><img height="50" alt="bunjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f"></a>
 </p>
-</div>
+
 <div>
 <h3>Java</h3>
  <p>
