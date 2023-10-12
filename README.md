@@ -15,7 +15,7 @@
 <h3>Web Dev</h3>
 <div align="left">
 	<table>
-		<tr><th>Web Dev</th>
+		<tr colspan="5"><th>Web Dev</th>
 		<tr>
 			<td><code><a href="https://www.w3schools.com/html/"><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></a></code></td>
 			<td><code><a href="https://www.w3schools.com/css/"><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></a></code></td>
