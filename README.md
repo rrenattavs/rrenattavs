@@ -1,4 +1,4 @@
-![image](https://github.com/rrenattavs/rrenattavs/assets/28666135/8d40ca8e-9811-4105-82a7-ed6c389f6897)<h1>Let introduce myself</h1>
+<h1>Let introduce myself</h1>
 - 👋 Hi, I’m Renata</br>
 - 🚀 I am a passionate programmer and problem-solving enthusiast, always eager to embrace new challenges with innovative solutions.</br>
 - 👀 With over a decade of experience, I am a Full Stack Developer with experience in many IT solutions</br>
