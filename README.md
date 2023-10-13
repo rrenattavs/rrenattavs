@@ -10,7 +10,7 @@
 - 📫 How to reach me by email: rrenattavs@gmail.com or <a href="https://www.linkedin.com/in/rvieiras/" title="LinkedIn">LinkedIn</a></br>
 
 
-<h1>Technologies that I know </h1>
+<h1>Technologies that I know or am working on </h1>
 <div>
 <div align="center">
 	<h3>Programming Language</h3>
