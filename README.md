@@ -1,4 +1,4 @@
-<h1>Let introduce myself</h1>
+![image](https://github.com/rrenattavs/rrenattavs/assets/28666135/8d40ca8e-9811-4105-82a7-ed6c389f6897)<h1>Let introduce myself</h1>
 - 👋 Hi, I’m Renata</br>
 - 🚀 I am a passionate programmer and problem-solving enthusiast, always eager to embrace new challenges with innovative solutions.</br>
 - 👀 With over a decade of experience, I am a Full Stack Developer with experience in many IT solutions</br>
@@ -82,6 +82,7 @@
 		</tr>
 	</table>
 </div>
+
 <div align="center">
 	<h3>Communication</h3>
 	<table>
@@ -95,6 +96,19 @@
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></code></td>
+		</tr>
+	</table>
+</div>
+<div align="center">
+	<p>Java Technologies in progress ... </p>
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png" alt="Struts" title="Struts"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></code></td>
 		</tr>
 	</table>
 </div>
