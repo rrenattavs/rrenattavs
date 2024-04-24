@@ -45,7 +45,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
 		</tr>
 	</table>
-	<p>In progress ... </p>
+<!-- 	<p>In progress ... </p>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code></td>
@@ -55,9 +55,9 @@
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/></code></td>
 		</tr>
-	</table>
+	</table> -->
 </div>
-<div align="center">
+<!-- <div align="center">
 	<h3>UI/UX</h3>
 	<table>
 		<tr>
@@ -68,7 +68,7 @@
 		</tr>
 	</table>
 	
-</div>
+</div> -->
 <div align="center">
 	<h3>Database</h3>
 	<table>
@@ -87,9 +87,9 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png" alt="Struts" title="Struts"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></code></td>
+<!-- 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code></td> -->
+<!-- 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png" alt="Struts" title="Struts"/></code></td> -->
+<!-- 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></code></td> -->
 		</tr>
 	</table>
 </div>
@@ -101,13 +101,13 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></td>
 		</tr>
 	</table>
-	<p>in progress...</p>
+<!-- 	<p>in progress...</p>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></code></td>
 		</tr>
-	</table>
+	</table> -->
 </div>
 
 </div>
